@@ -93,7 +93,3 @@ dataset-diff-finder/
 
 - Ensure that both CSV files have the same structure (matching columns) for accurate comparisons.
 - Only rows that differ between the two files will be saved in the output file.
-
-## License
-
-This project is open-source and available under the MIT License.
